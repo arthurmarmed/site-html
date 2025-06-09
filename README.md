@@ -16,19 +16,6 @@ Este é o repositório do meu site pessoal de portfólio, desenvolvido para apre
 * **Recurso JavaScript:** Implementação de scroll suave para links internos.
 * **Validação de Marcação:** O código HTML é validado para garantir conformidade com os padrões web.
 
-## 📁 Estrutura do Projeto
-## ⚙️ Como Rodar Localmente
-
-1.  Clone este repositório:
-    ```bash
-    git clone [https://github.com/arthurmarmed/site-html.git](https://github.com/arthurmarmed/site-html.git)
-    ```
-2.  Navegue até a pasta do projeto:
-    ```bash
-    cd site-html
-    ```
-3.  Abra o arquivo `index.html` em seu navegador.
-
 ## 🤝 Contato
 
 Em caso de dúvidas ou para oportunidades de colaboração, entre em contato:
